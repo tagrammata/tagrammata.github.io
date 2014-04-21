@@ -23,5 +23,5 @@ categories:
 
 
 
-{% img left /images/1955/06041955-1.png 400 350 'γράμμα πρώτη σελίδα' 'images' %}
-{% img left /images/1955/06041955-2.png 400 350 'γράμμα δεύτερη σελίδα' 'images' %}
+{% img left /images/1955/06041955-1.jpg 400 350 'γράμμα πρώτη σελίδα' 'images' %}
+{% img left /images/1955/06041955-2.jpg 400 350 'γράμμα δεύτερη σελίδα' 'images' %}

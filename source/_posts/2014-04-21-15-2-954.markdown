@@ -16,4 +16,4 @@ categories:
 Με αγάπην Χριστόδουλος
 
 
-{% img /images/1954/15021954.png auto auto 'γράμμα' 'γράμμα' %}
+{% img /images/1954/15021954.jpg auto auto 'γράμμα' 'γράμμα' %}

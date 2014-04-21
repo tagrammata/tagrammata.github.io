@@ -27,5 +27,5 @@ categories:
 
 Αυτά πρός το παρόν. Σταμάτης Κ....
 
-{% img /images//1949/03121949-01.png auto auto 'γράμμα πρώτη σελίδα' 'images' %}
-{% img /images//1949/03121949-02.png auto auto 'γράμμα δεύτερη σελίδα' 'images' %}
+{% img /images//1949/03121949-01.jpg auto auto 'γράμμα πρώτη σελίδα' 'images' %}
+{% img /images//1949/03121949-02.jpg auto auto 'γράμμα δεύτερη σελίδα' 'images' %}

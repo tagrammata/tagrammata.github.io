@@ -8,3 +8,7 @@
 // $heading-font-family: "Fjalla One", "Georgia", "Helvetica Neue", Arial, sans-serif !default;
 // $header-title-font-family: $heading-font-family !default;
 // $header-subtitle-font-family: $serif !default;
+
+$sans: "Libertine", Palatino, "Palatino Linotype", "Book Antiqua", Georgia, "Times New Roman", serif;
+$heading-font-family: $sans;
+$serif: $sans;

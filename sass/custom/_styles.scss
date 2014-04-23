@@ -19,16 +19,16 @@ body {
       color: #000000;
 			a, a:visited, a:hover {
 				font-family: $heading-font-family;
-        color: #000000;
-        text-shadow: 0 0 1px #333;
+        color: rgba(0,0,0, 0.8);
+        text-shadow: 1px 4px 6px #def, 0 0 0 #000, 1px 4px 6px #333;
 			}
 		}
 
     h2 {
       font-family: $heading-font-family;
-      text-shadow: 0 0 1px #667;
-      color: #000000;
       font-size: 1.3em;
+      color: rgba(0,0,0, 0.8);
+      text-shadow: 1px 4px 6px #def, 0 0 0 #000, 1px 4px 6px #333;
     }
 	}
 	> nav {

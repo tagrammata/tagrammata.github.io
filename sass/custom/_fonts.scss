@@ -9,6 +9,24 @@
 // $header-title-font-family: $heading-font-family !default;
 // $header-subtitle-font-family: $serif !default;
 
-$sans: "Libertine", Palatino, "Palatino Linotype", "Book Antiqua", Georgia, "Times New Roman", serif;
-$heading-font-family: $sans;
-$serif: $sans;
+
+@font-face {
+  font-family: gochen;
+  src: url(../assets/GFSGoschen-Italic.otf);
+}
+
+@font-face {
+  font-family: eustace;
+  src: url(../assets/GFSEustace.otf);
+}
+
+@font-face {
+  font-family: didot;
+  src: url(../assets/GFSDidot.ttf);
+}
+
+$sans: didot, "Libertine", Palatino, "Palatino Linotype", "Book Antiqua", Georgia, "Times New Roman", serif;
+$sans-no-didot: "Libertine", Palatino, "Palatino Linotype", "Book Antiqua", Georgia, "Times New Roman", serif;
+$heading-font-family: gochen, $sans;
+$inner-heading-font-family: didot, $sans;
+$serif: didot, $sans;

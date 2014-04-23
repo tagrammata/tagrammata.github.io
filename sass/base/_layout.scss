@@ -105,10 +105,25 @@ aside.sidebar {
 .flex-content { max-width: 100%; height: auto; }
 
 .basic-alignment {
-  &.left { float: left; margin-right: 1.5em; }
-  &.right { float: right; margin-left: 1.5em; }
+  &.left {
+  float: left;
+  margin-right: 1.5em;
+    &:before {
+      content: '\219E';
+      font-size: 1.5em;
+    }
+  }
+  &.right {
+  float: right;
+  margin-left: 1.5em;
+  vertical-align: top;
+    &:after {
+      content: "\21A0";
+      font-size: 1.5em;
+    }
+  }
   &.center { display:block; margin: 0 auto 1.5em; }
-  &.left, &.right { margin-bottom: .8em; }
+  &.left, &.right { margin-top: .2em; }
 }
 
 .toggle-sidebar { &, .no-sidebar & { display: none; }}

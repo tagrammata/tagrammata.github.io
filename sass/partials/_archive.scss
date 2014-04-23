@@ -16,6 +16,7 @@
   h1 {
     font-size: 1.2em;
     a {
+      font-family: $inner-heading-font-family;
       @include hover-link;
       color: firebrick;
       &:hover {
@@ -84,6 +85,7 @@
 #blog-archives {
   ol {
     list-style-type: none;
+    margin-left: 0;
   }
 
  li {
@@ -106,4 +108,8 @@
     color: #333333;
     padding: 3px 10px;
     }
+}
+
+article.hentry {
+  padding: 0 10px;
 }

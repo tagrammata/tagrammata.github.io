@@ -16,3 +16,17 @@ body > header {
     font-weight: normal;
   }
 }
+
+hgroup {
+  h3 {
+
+    span {
+      padding-bottom: 20px;
+      display: block;
+    }
+
+    padding-top: 2em;
+    font-size: .8em;
+    color: #333;
+  }
+}

@@ -142,12 +142,12 @@ aside {
 .header-separator {
   font: 100%/1 "Arial Unicode MS", FreeSerif, OpenSymbol, "DejaVu Sans", sans-serif;
   font-size: "xx-large";
-  text-shadow: 0 0 2px #667;
+  text-shadow: 0 0 1px #667;
   margin-top: 30px;
   margin-bottom: 0;
 }
 .header-separator:after {
-  content: "\2767";
+  content: "\269B";
 }
 
 body>header, body>nav, body>footer, body #content>article, body #content>div>article, body #content>div>section {

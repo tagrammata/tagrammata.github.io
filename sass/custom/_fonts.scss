@@ -29,4 +29,5 @@ $sans: didot, "Libertine", Palatino, "Palatino Linotype", "Book Antiqua", Georgi
 $sans-no-didot: "Libertine", Palatino, "Palatino Linotype", "Book Antiqua", Georgia, "Times New Roman", serif;
 $heading-font-family: gochen, $sans;
 $inner-heading-font-family: didot, $sans;
-$serif: didot, $sans;
+$serif: $sans;
+$main-content: "Libertine", Palatino, "Palatino Linotype", "Book Antiqua", Georgia, "Times New Roman", serif;

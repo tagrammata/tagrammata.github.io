@@ -118,10 +118,10 @@ article blockquote {
   $bq-margin: 1.2em;
   font-style: italic;
   position: relative;
-  font-size: 1.2em;
+  font-size: 1.1em;
   line-height: 1.5em;
   padding-left: 1em;
-  border-left: 4px solid rgba($text-color-light, .5);
+
   cite {
     font-style: italic;
     a { color: $text-color-light !important; word-wrap: break-word; }
@@ -130,6 +130,15 @@ article blockquote {
   @media only screen and (min-width: 992px) {
     padding-left: 1.5em;
     border-left-width: 4px;
+  }
+
+  & p:first-child:before {
+    content: "\201C";
+  }
+
+  & p:last-child:after {
+    content: "\201D";
+    display: inline;
   }
 }
 

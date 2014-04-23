@@ -5,9 +5,12 @@ footer: false
 ---
 
 <div id="blog-archives">
+<ol>
 {% for post in site.posts reversed %}
-<article>
-  {% include archive_post.html %}
-</article>
+  <li>
+    {% include archive_post.html %}
+    <span class="index"> {{ forloop.index }}</span>
+  <li>
 {% endfor %}
+</ol>
 </div>

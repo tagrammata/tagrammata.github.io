@@ -17,11 +17,10 @@ body {
 
 		h1 {
       color: #000000;
-      text-shadow: 0 0 1px #667;
 			a, a:visited, a:hover {
 				font-family: $heading-font-family;
         color: #000000;
-        text-shadow: 0 0 3px #667;
+        text-shadow: 0 0 2px #333;
 			}
 		}
 
@@ -77,6 +76,7 @@ article {
 	}
 
 	header {
+    background: none;
 		h1.entry-title {
 			font-family: $heading-font-family;
 			font-weight: 400;
@@ -127,7 +127,7 @@ article {
 			font-family: $heading-font-family;
 			font-weight: 400;
 			font-size: 3.2em;
-      text-shadow: 0 0 2px #667;
+      text-shadow: 0 0 2px #333;
 		}
 	}
 

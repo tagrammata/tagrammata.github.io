@@ -14,13 +14,22 @@
   h1 { color: $text-color; margin-bottom: .3em; }
   h2 { display: none; }
   h1 {
-    font-size: 1.5em;
+    font-size: 1.2em;
     a {
       @include hover-link;
-      color: inherit;
-      &:hover { color: $link-color-hover; }
+      color: firebrick;
+      &:hover {
+       color: $link-color-hover;
+        border-bottom: 1px solid;
+        text-decoration: none;
+       }
       font-weight: normal;
       display: inline-block;
+      border-bottom: 1px dotted;
+
+      &:visited {
+        color: rosybrown;
+      }
     }
   }
   a.category, time {
@@ -56,7 +65,7 @@
     }
     .year { display: none; }
     article {
-      padding:{left: 0em; bottom: .7em;}
+      padding:{left: 0em; bottom: .2em;}
     }
   a.category {
     line-height: 1.1em;
@@ -69,4 +78,32 @@
     padding-left: 0em;
   }
   .year { display: inline; }
+}
+
+
+#blog-archives {
+  ol {
+    list-style-type: none;
+  }
+
+ li {
+    margin: 0 0 0.6em 0;
+    background-image: url(http://diveintohtml5.info/i/dot.png);
+    background-color: rgb(255, 255, 255);
+    background-position: 0px 0.8em;
+    background-repeat: repeat no-repeat;
+
+     h1 {
+       display: inline-block;
+       background: white;
+       padding: 3px 10px;
+    }
+  }
+
+  .index {
+    float: right;
+    background-color: white;
+    color: #333333;
+    padding: 3px 10px;
+    }
 }

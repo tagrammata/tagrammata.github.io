@@ -3,7 +3,7 @@ layout: post
 title: "23-6-55"
 date: 2014-04-21 18:38:04 +0100
 comments: true
-categories: 
+categories:
 ---
 
 Χριστόδουλον Πενταράν Κεντρικάς Φιλακάς
@@ -23,5 +23,7 @@ categories:
 
 
 
-{% img left /images/1955/23061955-1.jpg 400 350 'γράμμα πρώτη σελίδα' 'images' %}
-{% img left /images/1955/23061955-2.jpg 400 350 'γράμμα δεύτερη σελίδα' 'images' %}
+{% gallery two %}
+  {% galleryitem /images/1955/23061955-1.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+  {% galleryitem /images/1955/23061955-2.jpg 'γράμμα δεύτερη σελίδα' 'images' %}
+{% endgallery %}

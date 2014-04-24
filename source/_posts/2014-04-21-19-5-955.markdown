@@ -22,5 +22,7 @@ categories:
 
 Με αγάπην Χαράλαμπος
 
-{% img left /images/1955/19051955Α-1.jpg 400 350 'γράμμα πρώτη σελίδα' 'images' %}
-{% img left /images/1955/19051955Α-2.jpg 400 350 'γράμμα δεύτερη σελίδα' 'images' %}
+{% gallery two %}
+  {% galleryitem /images/1955/19051955Α-1.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+  {% galleryitem /images/1955/19051955Α-2.jpg 'γράμμα δεύτερη σελίδα' 'images' %}
+{% endgallery %}

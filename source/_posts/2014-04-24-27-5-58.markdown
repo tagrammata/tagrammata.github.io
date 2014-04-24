@@ -18,4 +18,6 @@ categories:
 Μετα τιμής<br/>
 Μαργαρίτα Χριστοφή
 
-{% img /images/1958/270558.jpg 600 'γράμμα πρώτη σελίδα' 'images' %}
+{% gallery %}
+ {% galleryitem /images/1958/270558.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+{% endgallery %}

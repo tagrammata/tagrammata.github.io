@@ -26,4 +26,6 @@ categories:
 Σας χαιρετώ με αγάπιν<br/>
 Ο αδερφός σου Χριστόδουλος
 
-{% img left /images/1955/180855B.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+{% gallery %}
+  {% galleryitem /images/1955/180855B.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+{% endgallery %}

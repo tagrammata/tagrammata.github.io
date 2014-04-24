@@ -1,3 +1,13 @@
 <p>
   Copyright &copy; {{ site.time | date: "%Y" }} - {{ site.author }}
 </p>
+
+<script>
+$(document).ready(function(){
+  $("#gallery .gallery-row").nanoGallery({galleryToolbarHideIcons: 'true',
+                                          thumbnailWidth: '150',
+                                          thumbnailDisplayTransition: false,
+                                          colorScheme: 'lightBackground',
+                                          thumbnailLabel: false});
+});
+</script>

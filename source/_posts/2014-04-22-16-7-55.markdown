@@ -30,5 +30,7 @@ categories:
 Κεντρικαί Φυλακαί Λευκωσίας 8363
 
 
-{% img left /images/1955/160755.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+{% gallery %}
+  {% galleryitem /images/1955/160755.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+{% endgallery %}
 [ missing ]

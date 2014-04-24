@@ -18,5 +18,8 @@ categories:
 
 Με πολλήν αγάπην Χριστόδουλος
 
-{% img left /images/1955/02041955-1.jpg 400 350 'γράμμα πρώτη σελίδα' 'images' %}
-{% img right /images/1955/02041955-2.jpg 400 350 'γράμμα πρώτη σελίδα' 'images' %}
+
+{% gallery two %}
+ {% galleryitem /images/1955/02041955-1.jpg 400 350 'γράμμα πρώτη σελίδα' 'images' %}
+ {% galleryitem /images/1955/02041955-2.jpg 400 350 'γράμμα πρώτη σελίδα' 'images' %}
+{% endgallery %}

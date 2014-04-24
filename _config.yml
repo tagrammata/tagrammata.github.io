@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://despo.github.io/ta_grammata
+url: http://tagrammata.github.io
 title: Τα γράμματα
 subtitle: Μια ιστορική αναδρομή
 author: 'Δέσπω & Γιώργος Πενταρά'
@@ -27,7 +27,7 @@ email:
 # ----------------------- #
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
-root: /ta_grammata
+root: /
 permalink: /:title/
 source: source
 destination: public

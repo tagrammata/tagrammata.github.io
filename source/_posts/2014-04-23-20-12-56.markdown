@@ -14,4 +14,6 @@ categories:
 
 Χριστόδουλος
 
-{% img /images/1956/201256.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+{% gallery %}
+  {% galleryitem /images/1956/201256.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+{% endgallery %}

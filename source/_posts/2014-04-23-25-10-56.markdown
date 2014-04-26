@@ -18,5 +18,7 @@ Aγαπημένη μου γυναικούλλα,
 Σε χαιρετώ με αγάπην<br/>
 Χριστόδουλος
 
-{% img /images/1956/251056.jpg 'γράμμα πρώτη σελίδα' 'images' %}
-{% img /images/1956/251056B.jpg 'γράμμα δεύτερη σελίδα' 'images' %}
+{% gallery %}
+  {% galleryitem /images/1956/251056.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+  {% galleryitem /images/1956/251056B.jpg 'γράμμα δεύτερη σελίδα' 'images' %}
+{% endgallery %}

@@ -14,4 +14,6 @@ categories:
 
 Σε φιλώ Γιαννούλα
 
-{% img /images/1957/181257.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+{% gallery %}
+  {% galleryitem /images/1957/181257.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+{% endgallery %}

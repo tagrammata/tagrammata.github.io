@@ -21,5 +21,7 @@ categories:
 Με πολλήν αγάπην<br/>
  Χριστόδουλος
 
-{% img left /images/1956/250556.jpg 400 350 'γράμμα πρώτη σελίδα' 'images' %}
-{% img right /images/1956/250556B.jpg 400 350 'γράμμα δεύτερη σελίδα' 'images' %}
+{% gallery %}
+  {% galleryitem /images/1956/250556.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+  {% galleryitem /images/1956/250556B.jpg 'γράμμα δεύτερη σελίδα' 'images' %}
+{% endgallery %}

@@ -22,5 +22,7 @@ categories:
 Σου φιλώ το χέρι με<br/>
 αγάπην ο υιός σου Χριστόδουλος
 
-{% img left /images/1955/170955.jpg 400 350 'γράμμα πρώτη σελίδα' 'images' %}
-{% img left /images/1955/170955B.jpg 400 350 'γράμμα δεύτερη σελίδα' 'images' %}
+{% gallery %}
+  {% galleryitem /images/1955/170955.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+  {% galleryitem /images/1955/170955B.jpg 'γράμμα δεύτερη σελίδα' 'images' %}
+{% endgallery %}

@@ -15,4 +15,6 @@ categories:
 
 Σε χαιρετώ με πολλήν αγάπην, Χριστόδουλος
 
-{% img /images/1957/060457.jpg 'γράμμα δεύτερη σελίδα' 'images' %}
+{% gallery %}
+  {% galleryitem /images/1957/060457.jpg 'γράμμα δεύτερη σελίδα' 'images' %}
+{% endgallery %}

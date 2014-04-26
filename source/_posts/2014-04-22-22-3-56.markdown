@@ -27,5 +27,7 @@ categories:
 	δώσετε χαιρετίσματα πολύ θερμά απο μένα
 	και πέστε στην μανούλλα μαου να μήν πονά για μένα
 
-{% img left /images/1956/220356.jpg 400 350 'γράμμα πρώτη σελίδα' 'images' %}
-{% img left /images/1956/220356B.jpg 400 350 'γράμμα δεύτερη σελίδα' 'images' %}
+{% gallery %}
+  {% galleryitem /images/1956/220356.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+  {% galleryitem /images/1956/220356B.jpg 'γράμμα δεύτερη σελίδα' 'images' %}
+{% endgallery %}

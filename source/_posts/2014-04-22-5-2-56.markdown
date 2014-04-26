@@ -24,4 +24,6 @@ categories:
 	Βοήδα την αγάπην μου
 	Να έρδι πίσο πάλιν
 
-{% img /images/1956/05021956.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+{% gallery %}
+  {% galleryitem /images/1956/05021956.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+{% endgallery %}

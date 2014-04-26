@@ -15,5 +15,7 @@ categories:
 
 Μετά Σεβασμού Στέλλα Τταπακκούδη
 
-{% img left /images/1955/200955C.jpg 400 350 'γράμμα πρώτη σελίδα' 'images' %}
-{% img left /images/1955/200955D.jpg 400 350 'γράμμα δεύτερη σελίδα' 'images' %}
+{% gallery %}
+  {% galleryitem /images/1955/200955C.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+  {% galleryitem /images/1955/200955D.jpg 'γράμμα δεύτερη σελίδα' 'images' %}
+{% endgallery %}

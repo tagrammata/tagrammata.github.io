@@ -17,5 +17,7 @@ categories:
 Σαι φιλό με παντοτινήν<br/>
  αγάπην ει κιρία σου + + + +
 
-{% img left /images/1956/160956.jpg 400 350 'γράμμα πρώτη σελίδα' 'images' %}
-{% img right /images/1956/160956B.jpg 400 350 'γράμμα δεύτερη σελίδα' 'images' %}
+{% gallery %}
+  {% galleryitem /images/1956/160956.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+  {% galleryitem /images/1956/160956B.jpg 'γράμμα δεύτερη σελίδα' 'images' %}
+{% endgallery %}

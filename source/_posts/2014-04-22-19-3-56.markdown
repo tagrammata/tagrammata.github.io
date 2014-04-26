@@ -23,5 +23,7 @@ categories:
 	για φέρτε την αγάπην μου
 	για πάρτε με κε μένα
 
-{% img left /images/1956/190356A.jpg 400 350 'γράμμα πρώτη σελίδα' 'images' %}
-{% img right /images/1956/190356B.jpg 400 350 'γράμμα δεύτερη σελίδα' 'images' %}
+{% gallery %}
+  {% galleryitem /images/1956/190356A.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+  {% galleryitem /images/1956/190356B.jpg 'γράμμα δεύτερη σελίδα' 'images' %}
+{% endgallery %}

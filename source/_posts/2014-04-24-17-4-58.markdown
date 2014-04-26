@@ -34,6 +34,8 @@ categories:
 Ταχ. Κιβ. 383<br/>
 Λευκωσία
 
-{% img /images/1958/170458A.jpg 300 'γράμμα πρώτη σελίδα' 'images' %}
-{% img /images/1958/170458B.jpg 300 'γράμμα πρώτη σελίδα' 'images' %}
-{% img /images/1958/170458C.jpg 300 'γράμμα πρώτη σελίδα' 'images' %}
+{% gallery %}
+  {% galleryitem /images/1958/170458A.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+  {% galleryitem /images/1958/170458B.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+  {% galleryitem /images/1958/170458C.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+{% endgallery %}

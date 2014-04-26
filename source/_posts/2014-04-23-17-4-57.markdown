@@ -24,5 +24,7 @@ categories:
 
 
 
-{% img left /images/1957/170457.jpg 400 350 'γράμμα πρώτη σελίδα' 'images' %}
-{% img right /images/1957/170457B.jpg 400 350 'γράμμα δεύτερη σελίδα' 'images' %}
+{% gallery %}
+  {% galleryitem /images/1957/170457.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+  {% galleryitem /images/1957/170457B.jpg 'γράμμα δεύτερη σελίδα' 'images' %}
+{% endgallery %}

@@ -19,5 +19,7 @@ categories:
 Μαι παντοτηνήν αγάπην<br/>
  εικιρά σου Δέσπεινα.
 
-{% img left /images/1956/190856.jpg 400 350 'γράμμα πρώτη σελίδα' 'images' %}
-{% img right /images/1956/190856B.jpg 400 350 'γράμμα δεύτερη σελίδα' 'images' %}
+{% gallery %}
+  {% galleryitem /images/1956/190856.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+  {% galleryitem /images/1956/190856B.jpg 'γράμμα δεύτερη σελίδα' 'images' %}
+{% endgallery %}

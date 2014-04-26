@@ -21,4 +21,6 @@ categories:
 
 Σας χαιρετώ με πολλήν αγάπην Χριστόδουλος.
 
-{% img /images/1957/200357.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+{% gallery %}
+  {% galleryitem /images/1957/200357.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+{% endgallery %}

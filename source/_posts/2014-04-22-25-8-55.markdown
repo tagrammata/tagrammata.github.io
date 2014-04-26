@@ -18,5 +18,8 @@ categories:
     αν δής και την αγάπην μου να καλιμερίσης
     και να την γλικοφιλίσις
 
-{% img left /images/1955/250855.jpg 400 350 'γράμμα πρώτη σελίδα' 'images' %}
-{% img left /images/1955/250855B.jpg 400 350 'γράμμα δεύτερη σελίδα' 'images' %}
+
+{% gallery %}
+  {% galleryitem /images/1955/250855.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+  {% galleryitem /images/1955/250855B.jpg 'γράμμα δεύτερη σελίδα' 'images' %}
+{% endgallery %}

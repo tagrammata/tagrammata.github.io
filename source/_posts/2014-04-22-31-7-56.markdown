@@ -18,4 +18,6 @@ categories:
 
  Μαρούλα Παναγή
 
-{% img /images/1956/310756.jpg 'γράμμα δεύτερη σελίδα' 'images' %}
+{% gallery %}
+  {% galleryitem /images/1956/310756.jpg 'γράμμα δεύτερη σελίδα' 'images' %}
+{% endgallery %}

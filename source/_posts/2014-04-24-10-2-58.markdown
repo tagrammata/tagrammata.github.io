@@ -16,5 +16,7 @@ categories:
 
 Με αγάπην ο αδελφότεχνος σου Κώστας
 
-{% img left /images/1958/100258.jpg 400 'γράμμα πρώτη σελίδα' 'images' %}
-{% img right /images/1958/100258B.jpg 400 'γράμμα πρώτη σελίδα' 'images' %}
+{% gallery %}
+  {% galleryitem /images/1958/100258.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+  {% galleryitem /images/1958/100258B.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+{% endgallery %}

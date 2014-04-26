@@ -17,4 +17,6 @@ D.P 8363
 
 Σας χαιρετό η κουνιάδα σας Στέλλα
 
-{% img /images/1957/200157.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+{% gallery %}
+  {% galleryitem /images/1957/200157.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+{% endgallery %}

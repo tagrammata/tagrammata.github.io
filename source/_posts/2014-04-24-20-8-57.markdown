@@ -16,5 +16,7 @@ categories:
 
 Με αγάπην Χριστόδουλος
 
-{% img /images/1957/200857.jpg 'γράμμα πρώτη σελίδα' 'images' %}
-{% img /images/1957/200857B.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+{% gallery %}
+  {% galleryitem /images/1957/200857.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+  {% galleryitem /images/1957/200857B.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+{% endgallery %}

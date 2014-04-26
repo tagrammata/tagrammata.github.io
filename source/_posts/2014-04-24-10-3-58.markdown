@@ -14,4 +14,6 @@ categories:
 
 Με αγάπην ειγινέκασου και ο γιός σου Νίκος + + + + +
 
-{% img /images/1958/100358.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+{% gallery %}
+  {% galleryitem /images/1958/100358.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+{% endgallery %}

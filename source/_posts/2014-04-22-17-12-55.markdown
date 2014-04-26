@@ -22,5 +22,7 @@ categories:
     και εγό μετην αγάπην μου
     εν είπα καλιμέρα
 
-{% img left /images/1955/17121955-1.jpg 400 350 'γράμμα πρώτη σελίδα' 'images' %}
-{% img right /images/1955/17121955-2.jpg 400 350 'γράμμα δεύτερη σελίδα' 'images' %}
+{% gallery %}
+  {% galleryitem /images/1955/17121955-1.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+  {% galleryitem /images/1955/17121955-2.jpg 'γράμμα δεύτερη σελίδα' 'images' %}
+{% endgallery %}

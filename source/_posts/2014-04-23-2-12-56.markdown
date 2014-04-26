@@ -24,5 +24,7 @@ categories:
     Μαλίθκια που τα μάδκια μου
     Δέν λίπουν τα όνιρα σου
 
-{% img left /images/1956/02121956-1.jpg 400 350 'γράμμα πρώτη σελίδα' 'images' %}
-{% img right /images/1956/02121956-2.jpg 400 350 'γράμμα δεύτερη σελίδα' 'images' %}
+{% gallery %}
+  {% galleryitem /images/1956/02121956-1.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+  {% galleryitem /images/1956/02121956-2.jpg 'γράμμα δεύτερη σελίδα' 'images' %}
+{% endgallery %}

@@ -16,5 +16,7 @@ categories:
 
 Σε φυλό με αγάπην εικιρία σου Δέσπεινα.
 
-{% img left /images/1957/200157A.jpg 400 350 'γράμμα πρώτη σελίδα' 'images' %}
-{% img right /images/1957/200157B.jpg 400 350 'γράμμα δεύτερη σελίδα' 'images' %}
+{% gallery %}
+  {% galleryitem /images/1957/200157A.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+  {% galleryitem /images/1957/200157B.jpg 'γράμμα δεύτερη σελίδα' 'images' %}
+{% endgallery %}

@@ -21,5 +21,7 @@ categories:
 ο αδελφός σου<br/>
 Βάσος
 
-{% img /images/1957/051157C.jpg 'γράμμα πρώτη σελίδα' 'images' %}
-{% img /images/1957/051157D.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+{% gallery %}
+  {% galleryitem /images/1957/051157C.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+  {% galleryitem /images/1957/051157D.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+{% endgallery %}

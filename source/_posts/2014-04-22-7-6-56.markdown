@@ -16,5 +16,7 @@ categories:
 Με πολίν αγάπην<br/>
  εικειρία σου Δέσπεινα
 
-{% img left /images/1956/070656.jpg 400 350 'γράμμα πρώτη σελίδα' 'images' %}
-{% img right /images/1956/070656B.jpg 400 350 'γράμμα δεύτερη σελίδα' 'images' %}
+{% gallery %}
+  {% galleryitem /images/1956/070656.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+  {% galleryitem /images/1956/070656B.jpg 'γράμμα δεύτερη σελίδα' 'images' %}
+{% endgallery %}

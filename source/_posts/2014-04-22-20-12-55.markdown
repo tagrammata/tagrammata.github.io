@@ -16,4 +16,6 @@ categories:
 
 Σας φιλώ με αγάπην Χριστόδουλος
 
-{% img /images/1955/201255.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+{% gallery %}
+  {% galleryitem /images/1955/201255.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+{% endgallery %}

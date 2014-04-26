@@ -19,4 +19,6 @@ categories:
 
 Μέχρι το Σάβατον ελπίζο να πάρο επιστολήν σου
 
-{% img /images/1957/180857.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+{% gallery two %}
+  {% galleryitem /images/1957/180857.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+{% endgallery two %}

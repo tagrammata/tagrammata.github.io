@@ -15,5 +15,7 @@ categories:
 
 Με αγάπην εικιρία σου Δέσπεινα
 
-{% img left /images/1957/031257.jpg 400 'γράμμα πρώτη σελίδα' 'images' %}
-{% img right /images/1957/031257B.jpg 400 'γράμμα πρώτη σελίδα' 'images' %}
+{% gallery %}
+  {% galleryitem /images/1957/031257.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+  {% galleryitem /images/1957/031257B.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+{% endgallery %}

@@ -23,5 +23,7 @@ No 8363<br/>
     αν δείτε την αγάπην μου να μου
     την χερετάτε
 
-{% img left /images/1957/070457.jpg 400 350 'γράμμα πρώτη σελίδα' 'images' %}
-{% img right /images/1957/070457B.jpg 400 350 'γράμμα δεύτερη σελίδα' 'images' %}
+{% gallery %}
+  {% galleryitem /images/1957/070457.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+  {% galleryitem /images/1957/070457B.jpg 'γράμμα δεύτερη σελίδα' 'images' %}
+{% endgallery %}

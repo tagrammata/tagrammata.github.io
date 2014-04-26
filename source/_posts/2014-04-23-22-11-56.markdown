@@ -20,5 +20,7 @@ categories:
 
 Με αγάπην Χριστόδουλος
 
-{% img /images/1956/221156.jpg 'γράμμα πρώτη σελίδα' 'images' %}
-{% img /images/1956/221156B.jpg 'γράμμα δεύτερη σελίδα' 'images' %}
+{% gallery %}
+  {% galleryitem /images/1956/221156.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+  {% galleryitem /images/1956/221156B.jpg 'γράμμα δεύτερη σελίδα' 'images' %}
+{% endgallery %}

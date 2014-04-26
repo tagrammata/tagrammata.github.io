@@ -16,4 +16,6 @@ categories:
 Σωτήρης Στυλιανού
 
 
-{% img /images/1958/060258.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+{% gallery %}
+  {% galleryitem /images/1958/060258.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+{% endgallery %}

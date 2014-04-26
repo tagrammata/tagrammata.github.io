@@ -23,5 +23,7 @@ categories:
     την αγάπιν μου
     να την παριγοράτε
 
-{% img left /images/1956/130756.jpg 400 350 'γράμμα πρώτη σελίδα' 'images' %}
-{% img left /images/1956/130756B.jpg 400 350 'γράμμα δεύτερη σελίδα' 'images' %}
+{% gallery %}
+  {% galleryitem /images/1956/130756.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+  {% galleryitem /images/1956/130756B.jpg 'γράμμα δεύτερη σελίδα' 'images' %}
+{% endgallery %}

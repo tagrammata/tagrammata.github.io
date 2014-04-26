@@ -19,5 +19,7 @@ categories:
 Με παντοτινήν<br/>
 αγάπην εικιρία σου.
 
-{% img left /images/1957/170257.jpg 400 350 'γράμμα πρώτη σελίδα' 'images' %}
-{% img right /images/1957/170257B.jpg 400 350 'γράμμα δεύτερη σελίδα' 'images' %}
+{% gallery %}
+  {% galleryitem /images/1957/170257.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+  {% galleryitem /images/1957/170257B.jpg 'γράμμα δεύτερη σελίδα' 'images' %}
+{% endgallery %}

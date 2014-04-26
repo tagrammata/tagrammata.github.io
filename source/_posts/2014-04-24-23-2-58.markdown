@@ -18,5 +18,6 @@ categories:
 
 Με αγάπην Δέσπεινα + + + +
 
-{% img /images/1958/230258.jpg 'γράμμα πρώτη σελίδα' 'images' %}
-[ missing ]
+{% gallery %}
+  {% galleryitem /images/1958/230258.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+{% endgallery %}

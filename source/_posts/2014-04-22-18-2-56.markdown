@@ -19,4 +19,6 @@ categories:
 
 Σε χαιρετό με πολήν αγάπην ει κιρία σου Δέσπεινα.
 
-{% img /images/1956/180256.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+{% gallery %}
+  {% galleryitem /images/1956/180256.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+{% endgallery %}

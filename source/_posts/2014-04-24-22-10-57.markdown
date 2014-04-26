@@ -18,5 +18,7 @@ categories:
 Με αγάπη<br/>
 Βάσος
 
-{% img /images/1957/221057.jpg 'γράμμα πρώτη σελίδα' 'images' %}
-{% img /images/1957/221057B.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+{% gallery %}
+  {% galleryitem /images/1957/221057.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+  {% galleryitem /images/1957/221057B.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+{% endgallery %}

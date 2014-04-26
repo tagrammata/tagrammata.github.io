@@ -27,5 +27,7 @@ categories:
     πόρταν να την
     είδα
 
-{% img left /images/1956/140556.jpg 400 350 'γράμμα πρώτη σελίδα' 'images' %}
-{% img left /images/1956/140556B.jpg 400 350 'γράμμα δεύτερη σελίδα' 'images' %}
+{% gallery %}
+  {% galleryitem /images/1956/140556.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+  {% galleryitem /images/1956/140556B.jpg 'γράμμα δεύτερη σελίδα' 'images' %}
+{% endgallery %}

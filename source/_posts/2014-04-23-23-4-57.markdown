@@ -17,4 +17,6 @@ categories:
 
 Σαι φυλό με αγάπην Δέσπεινα σου
 
-{% img /images/1957/230457.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+{% gallery %}
+  {% galleryitem /images/1957/230457.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+{% endgallery %}

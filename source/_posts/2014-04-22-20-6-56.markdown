@@ -22,5 +22,7 @@ categories:
     και πάλιν άς ην
     δεικάσας
 
-{% img left /images/1956/200656.jpg 400 350 'γράμμα πρώτη σελίδα' 'images' %}
-{% img left /images/1956/200656B.jpg 400 350 'γράμμα δεύτερη σελίδα' 'images' %}
+{% gallery %}
+  {% galleryitem /images/1956/200656.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+  {% galleryitem /images/1956/200656B.jpg 'γράμμα δεύτερη σελίδα' 'images' %}
+{% endgallery %}

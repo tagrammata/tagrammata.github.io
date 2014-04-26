@@ -34,5 +34,7 @@ categories:
     στην αγάπην μου να μήν ξεχάσι
     εμέναν
 
-{% img left /images/1956/130456.jpg 400 350 'γράμμα πρώτη σελίδα' 'images' %}
-{% img right /images/1956/130456B.jpg 400 350 'γράμμα δεύτερη σελίδα' 'images' %}
+{% gallery %}
+  {% galleryitem /images/1956/130456.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+  {% galleryitem /images/1956/130456B.jpg 'γράμμα δεύτερη σελίδα' 'images' %}
+{% endgallery %}

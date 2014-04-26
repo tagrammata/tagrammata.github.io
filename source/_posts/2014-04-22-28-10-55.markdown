@@ -27,5 +27,7 @@ Aγαπητή μου μητέρα
 Σου φιλώ το χέρι με αγάπην<br/>
 ο υιός σου Χριστόδουλος
 
-{% img left /images/1955/281055.jpg 400 350 'γράμμα πρώτη σελίδα' 'images' %}
-{% img right /images/1955/281055B.jpg 400 350 'γράμμα δεύτερη σελίδα' 'images' %}
+{% gallery %}
+  {% galleryitem /images/1955/281055.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+  {% galleryitem /images/1955/281055B.jpg 'γράμμα δεύτερη σελίδα' 'images' %}
+{% endgallery %}

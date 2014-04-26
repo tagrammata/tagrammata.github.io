@@ -14,5 +14,7 @@ categories:
 
 Με αγάπην ο αδελφός σου Χαράλαμπος.
 
-{% img left /images/1957/051157.jpg 400 350 'γράμμα πρώτη σελίδα' 'images' %}
-{% img right /images/1957/051157B.jpg 400 350 'γράμμα πρώτη σελίδα' 'images' %}
+{% gallery %}
+  {% galleryitem /images/1957/051157.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+  {% galleryitem /images/1957/051157B.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+{% endgallery %}

@@ -23,5 +23,7 @@ categories:
     γίλι μου δέν λίπη
     τ’όνομα σου
 
-{% img left /images/1957/100657.jpg 400 350 'γράμμα πρώτη σελίδα' 'images' %}
-{% img right /images/1957/100657B.jpg 400 350 'γράμμα πρώτη σελίδα' 'images' %}
+{% gallery %}
+  {% galleryitem /images/1957/100657.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+  {% galleryitem /images/1957/100657B.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+{% endgallery %}

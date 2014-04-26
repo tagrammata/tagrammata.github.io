@@ -18,5 +18,7 @@ categories:
 Σε φιλό<br/>
  η Δέσπεινά σου + + + + +
 
-{% img left /images/1956/210956.jpg 400 350 'γράμμα πρώτη σελίδα' 'images' %}
-{% img left /images/1956/210956B.jpg 400 350 'γράμμα δεύτερη σελίδα' 'images' %}
+{% gallery %}
+  {% galleryitem /images/1956/210956.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+  {% galleryitem /images/1956/210956B.jpg 'γράμμα δεύτερη σελίδα' 'images' %}
+{% endgallery %}

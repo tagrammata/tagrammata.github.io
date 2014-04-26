@@ -23,4 +23,6 @@ categories:
     να...............τα μάδκια μου
     που τρέχουν σάν αυλάτσια
 
-{% img /images/1957/130557.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+{% gallery %}
+  {% galleryitem /images/1957/130557.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+{% endgallery %}

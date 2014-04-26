@@ -27,5 +27,7 @@ categories:
  ο υιός σου Χριστόδουλος.
 
 
-{% img left /images/1955/291155.jpg 400 350 'γράμμα πρώτη σελίδα' 'images' %}
-{% img right /images/1955/291155B.jpg 400 350 'γράμμα δεύτερη σελίδα' 'images' %}
+{% gallery %}
+  {% galleryitem /images/1955/291155.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+  {% galleryitem /images/1955/291155B.jpg 'γράμμα δεύτερη σελίδα' 'images' %}
+{% endgallery %}

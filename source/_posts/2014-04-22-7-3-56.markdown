@@ -21,5 +21,7 @@ categories:
 Καλινίγτα αγάπημου διοτι ειόρα ένε<br/>
  και ο θεός προστάτις σου
 
-{% img left /images/1956/070356A.jpg 400 350 'γράμμα πρώτη σελίδα' 'images' %}
-{% img left /images/1956/070356B.jpg 400 350 'γράμμα δεύτερη σελίδα' 'images' %}
+{% gallery %}
+  {% galleryitem /images/1956/070356A.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+  {% galleryitem /images/1956/070356B.jpg 'γράμμα δεύτερη σελίδα' 'images' %}
+{% endgallery %}

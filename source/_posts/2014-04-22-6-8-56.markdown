@@ -16,4 +16,6 @@ categories:
 
 Με αγάπην ο κουμπάρος σου Ανδρέας Χριστοδούλου
 
-{% img /images/1956/060856B.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+{% gallery %}
+  {% galleryitem /images/1956/060856B.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+{% endgallery %}

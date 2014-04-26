@@ -21,5 +21,7 @@ categories:
 
 Με αγάπην εικιρία σου και ο γιόκας σου Νίκος. Σε φιλώ
 
-{% img left /images/1957/260557.jpg 400 350 'γράμμα πρώτη σελίδα' 'images' %}
-{% img right /images/1957/260557B.jpg 400 350 'γράμμα πρώτη σελίδα' 'images' %}
+{% gallery %}
+  {% galleryitem /images/1957/260557.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+  {% galleryitem /images/1957/260557B.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+{% endgallery %}

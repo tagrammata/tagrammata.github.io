@@ -14,4 +14,6 @@ categories:
 Για χαρά και Σίντομιν αντάμοσιν<br/>
 Σε χερετό η κουνιάδα σου Στέλλα
 
-{% img /images/1956/140556C.jpg 'γράμμα' 'images' %}
+{% gallery %}
+  {% galleryitem /images/1956/140556C.jpg 'γράμμα' 'images' %}
+{% endgallery %}

@@ -20,5 +20,7 @@ categories:
     Και εγό σταφρόνο το νερόν
     και πήνοτο για εσένα
 
-{% img left /images/1955/20101955-1.jpg 400 350 'γράμμα πρώτη σελίδα' 'images' %}
-{% img left /images/1955/20101955-2.jpg 400 350 'γράμμα δεύτερη σελίδα' 'images' %}
+{% gallery %}
+  {% galleryitem /images/1955/20101955-1.jpg 'γράμμα πρώτη σελίδα' 'images' %}
+  {% galleryitem /images/1955/20101955-2.jpg 'γράμμα δεύτερη σελίδα' 'images' %}
+{% endgallery %}

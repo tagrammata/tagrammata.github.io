@@ -23,7 +23,7 @@ categories:
 
 
 
-{% gallery two %}
+{% gallery %}
   {% galleryitem /images/1955/23061955-1.jpg 'γράμμα πρώτη σελίδα' 'images' %}
   {% galleryitem /images/1955/23061955-2.jpg 'γράμμα δεύτερη σελίδα' 'images' %}
 {% endgallery %}

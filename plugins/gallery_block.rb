@@ -9,7 +9,9 @@ module Jekyll
     end
 
     def render(context)
-      %{<div id="gallery" class="#{@markup}"> <div class="gallery-row"> #{super} </div> </div>}
+      id = "gallery"
+      id << "-#{@markup}" unless @markup.empty?
+      %{<div id=#{id}> <div class="gallery-row"> #{super} </div> </div>}
     end
   end
 
@@ -34,7 +36,7 @@ module Jekyll
 
     def render(context)
       if @img
-        %{<a href='#{@img["src"]}' data-ngthumb="#{@img["src"]}"></a>}
+        %{<a href='#{@img["src"]}' data-ngthumb="#{@img["src"]}" >#{@img["title"]}</a>}
       else
         "Error processing input, expected syntax: {% img [class name(s)] [http[s]:/]/path/to/image [width [height]] [title text | \"title text\" [\"alt text\"]] %}"
         end

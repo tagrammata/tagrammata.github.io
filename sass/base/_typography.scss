@@ -142,6 +142,10 @@ article blockquote {
   }
 }
 
+code {
+  font-family: $sans;
+}
+
 .pullquote-right:before,
 .pullquote-left:before {
   /* Reset metrics. */

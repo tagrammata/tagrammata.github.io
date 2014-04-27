@@ -9,5 +9,37 @@ $(document).ready(function(){
                                           thumbnailDisplayTransition: false,
                                           colorScheme: 'lightBackground',
                                           thumbnailLabel: false});
+
+  $("#gallery-pictures .gallery-row").nanoGallery({galleryToolbarHideIcons: 'false',
+                                          thumbnailWidth: '250',
+                                          thumbnailHeight:  '350',
+                                          thumbnailDisplayTransition: false,
+                                          colorScheme: 'dark',
+                                          thumbnailLabel: {
+                                            position: 'overImageOnBottom',
+                                            hideIcons: true,
+                                            align: 'center'
+                                          },
+                                          viewerToolbar: {
+                                            style: 'stuckImage'
+                                          },
+                                          galleryToolbarHideIcons: true
+                                        });
+
+  $("#gallery-pictures-vertical .gallery-row").nanoGallery({galleryToolbarHideIcons: 'false',
+                                          thumbnailWidth: '275',
+                                          thumbnailHeight:  '200',
+                                          thumbnailDisplayTransition: false,
+                                          colorScheme: 'dark',
+                                          thumbnailLabel: {
+                                            position: 'overImageOnBottom',
+                                            hideIcons: true,
+                                            align: 'center'
+                                          },
+                                          viewerToolbar: {
+                                            style: 'stuckImage'
+                                          },
+                                          galleryToolbarHideIcons: true
+                                        });
 });
 </script>

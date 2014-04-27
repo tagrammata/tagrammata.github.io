@@ -31,7 +31,7 @@ categories:
 
 Σου φιλώ το χέρι με αγάπην, ο γιός σου Χριστόδουλος
 
-{% gallery two %}
+{% gallery %}
   {% galleryitem /images/1955/10041955-1.jpg 'γράμμα πρώτη σελίδα' 'images' %}
   {% galleryitem /images/1955/10041955-2.jpg 'γράμμα δεύτερη σελίδα' 'images' %}
 {% endgallery %}

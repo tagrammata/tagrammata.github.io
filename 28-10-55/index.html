@@ -223,14 +223,37 @@ $(document).ready(function(){
                                           galleryToolbarHideIcons: true
                                         });
 
-  $('.alternate-text + *').on('click', function() {
-    $(this).hide();
-    $(this).prev().show();
+  $('.alternate-text + p').on('click', function() {
+    var text = $(this).text();
+    var alternateText = $(this).prev().text();
+
+    $(this).fadeOut(function() {
+      $(this).text(alternateText).fadeIn();
+    });
+    $(this).prev().text(text);
   });
 
+  $('.alternate-text + pre code').on('click', function() {
+    var text = $(this).html();
+    var alternateText = $(this).parent().prev().children().first().html();
+
+    $(this).parent().prev().children().first().html(text);
+    var formatAlternateText = alternateText.replace(/<br>  /g,'<br>');
+
+    $(this).fadeOut(function() {
+      $(this).html(formatAlternateText).fadeIn();
+    });
+  });
+
+
   $('.alternate-text').on('click', function() {
-    $(this).hide();
-    $(this).next().show();
+    var text = $(this).text();
+    var alternateText = $(this).next().text();
+
+    $(this).fadeOut(function() {
+      $(this).text(alternateText).fadeIn();
+    });
+    $(this).next().text(text);
   });
 
 });

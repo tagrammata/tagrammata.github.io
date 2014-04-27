@@ -223,6 +223,17 @@ $(document).ready(function(){
                                           },
                                           galleryToolbarHideIcons: true
                                         });
+
+  $('.alternate-text + *').on('click', function() {
+    $(this).hide();
+    $(this).prev().show();
+  });
+
+  $('.alternate-text').on('click', function() {
+    $(this).hide();
+    $(this).next().show();
+  });
+
 });
 </script>
 

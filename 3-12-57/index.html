@@ -92,9 +92,9 @@
 
 <p>Με αγάπην εικιρία σου Δέσπεινα</p>
 
-<div id="gallery" class=""> <div class="gallery-row"> 
-  <a href='/images/1957/031257.jpg' data-ngthumb="/images/1957/031257.jpg"></a>
-  <a href='/images/1957/031257B.jpg' data-ngthumb="/images/1957/031257B.jpg"></a>
+<div id=gallery> <div class="gallery-row"> 
+  <a href='/images/1957/031257.jpg' data-ngthumb="/images/1957/031257.jpg" >γράμμα πρώτη σελίδα</a>
+  <a href='/images/1957/031257B.jpg' data-ngthumb="/images/1957/031257B.jpg" >γράμμα πρώτη σελίδα</a>
  </div> </div>
 
 </div>
@@ -103,9 +103,6 @@
   <footer>
     <p class="meta">
       
-      
-
-
     </p>
     
       <div class="sharing">
@@ -181,6 +178,38 @@ $(document).ready(function(){
                                           thumbnailDisplayTransition: false,
                                           colorScheme: 'lightBackground',
                                           thumbnailLabel: false});
+
+  $("#gallery-pictures .gallery-row").nanoGallery({galleryToolbarHideIcons: 'false',
+                                          thumbnailWidth: '250',
+                                          thumbnailHeight:  '350',
+                                          thumbnailDisplayTransition: false,
+                                          colorScheme: 'dark',
+                                          thumbnailLabel: {
+                                            position: 'overImageOnBottom',
+                                            hideIcons: true,
+                                            align: 'center'
+                                          },
+                                          viewerToolbar: {
+                                            style: 'stuckImage'
+                                          },
+                                          galleryToolbarHideIcons: true
+                                        });
+
+  $("#gallery-pictures-vertical .gallery-row").nanoGallery({galleryToolbarHideIcons: 'false',
+                                          thumbnailWidth: '275',
+                                          thumbnailHeight:  '200',
+                                          thumbnailDisplayTransition: false,
+                                          colorScheme: 'dark',
+                                          thumbnailLabel: {
+                                            position: 'overImageOnBottom',
+                                            hideIcons: true,
+                                            align: 'center'
+                                          },
+                                          viewerToolbar: {
+                                            style: 'stuckImage'
+                                          },
+                                          galleryToolbarHideIcons: true
+                                        });
 });
 </script>
 

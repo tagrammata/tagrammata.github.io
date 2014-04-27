@@ -102,9 +102,9 @@
 <p>Είμαι πάρα πολύ καλά. Κάθε βράδυ παρακαλώ τον θεόν να σ’ έχη καλά και να σε δυναμώννει, και να με βοηθήση σύντομα να σε ανταμώσω. Μή στενοχωρήσαι αθόλου γιατί είμαι και περνώ πάρα πολύ καλά. Η δουλειά μου είναι πάρα πολύ ήσυχη και δέν κουράζομαι καθόλου. Δώσε χαιρετισμούς εις όλους τους δικούς μας. Σου φιλώ το χέρι<br/>
  ο υιός σου Χριστόδουλος.</p>
 
-<div id="gallery" class=""> <div class="gallery-row"> 
-  <a href='/images/1955/291155.jpg' data-ngthumb="/images/1955/291155.jpg"></a>
-  <a href='/images/1955/291155B.jpg' data-ngthumb="/images/1955/291155B.jpg"></a>
+<div id=gallery> <div class="gallery-row"> 
+  <a href='/images/1955/291155.jpg' data-ngthumb="/images/1955/291155.jpg" >γράμμα πρώτη σελίδα</a>
+  <a href='/images/1955/291155B.jpg' data-ngthumb="/images/1955/291155B.jpg" >γράμμα δεύτερη σελίδα</a>
  </div> </div>
 
 </div>
@@ -113,9 +113,6 @@
   <footer>
     <p class="meta">
       
-      
-
-
     </p>
     
       <div class="sharing">
@@ -191,6 +188,38 @@ $(document).ready(function(){
                                           thumbnailDisplayTransition: false,
                                           colorScheme: 'lightBackground',
                                           thumbnailLabel: false});
+
+  $("#gallery-pictures .gallery-row").nanoGallery({galleryToolbarHideIcons: 'false',
+                                          thumbnailWidth: '250',
+                                          thumbnailHeight:  '350',
+                                          thumbnailDisplayTransition: false,
+                                          colorScheme: 'dark',
+                                          thumbnailLabel: {
+                                            position: 'overImageOnBottom',
+                                            hideIcons: true,
+                                            align: 'center'
+                                          },
+                                          viewerToolbar: {
+                                            style: 'stuckImage'
+                                          },
+                                          galleryToolbarHideIcons: true
+                                        });
+
+  $("#gallery-pictures-vertical .gallery-row").nanoGallery({galleryToolbarHideIcons: 'false',
+                                          thumbnailWidth: '275',
+                                          thumbnailHeight:  '200',
+                                          thumbnailDisplayTransition: false,
+                                          colorScheme: 'dark',
+                                          thumbnailLabel: {
+                                            position: 'overImageOnBottom',
+                                            hideIcons: true,
+                                            align: 'center'
+                                          },
+                                          viewerToolbar: {
+                                            style: 'stuckImage'
+                                          },
+                                          galleryToolbarHideIcons: true
+                                        });
 });
 </script>
 

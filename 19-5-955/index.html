@@ -90,13 +90,11 @@
 
 <p>Η γυναίκα σου και το παιδί σου είναι εν τάξει, ο πατέρας της και η μητέρα της την έχουν σάν τα άλλα τους τα παιδιά από οικονομικόν δέν έχει να σκεφθεί τήποτε είναι εν τάξει.</p>
 
-<p>Εμείς είμεθα όλοι καλά και η μητέρα μας. Έ τί να γίνει είναι γερόντισα την φροντίζομεν όσον μπορούμεν.</p>
-
-<p>Υπομονήν αγαπητέ μου αδελφέ και η ζωή δεν είναι τήποτε άλλο παρά σταυρός και τον σταυρόν αυτόν οφείλουμεν να τον φέρωμεν αλογγύστως μέχρι τέλους.</p>
+<p>Εμείς είμεθα όλοι καλά και η μητέρα μας έ τί να γίνει είναι γερόντισα την φροντίζομεν όσον μπορούμεν. Υπομονήν αγαπητέ μου αδελφέ και η ζωή δεν είναι τήποτε άλλο παρά σταυρός και τον σταυρόν αυτόν οφείλουμεν να τον φέρωμεν αλογγύστως μέχρι τέλους.</p>
 
 <p>Αυτά πρός το παρών και χερετισμούς από όλους μας σε όλους σας.</p>
 
-<p>Με αγάπην Χαράλαμπος</p>
+<p>Με αγάπην<br/> Χαράλαμπος</p>
 
 <div id=gallery> <div class="gallery-row"> 
   <a href='/images/1955/19051955Α-1.jpg' data-ngthumb="/images/1955/19051955Α-1.jpg" >γράμμα πρώτη σελίδα</a>
@@ -183,6 +181,9 @@ $(document).ready(function(){
                                           thumbnailWidth: '150',
                                           thumbnailDisplayTransition: false,
                                           colorScheme: 'lightBackground',
+                                          viewerToolbar: {
+                                            style: 'stuckImage'
+                                          },
                                           thumbnailLabel: false});
 
   $("#gallery-pictures .gallery-row").nanoGallery({galleryToolbarHideIcons: 'false',
@@ -218,13 +219,16 @@ $(document).ready(function(){
                                         });
 
   $('.alternate-text + p').on('click', function() {
-    var text = $(this).text();
-    var alternateText = $(this).prev().text();
+    var text = $(this).html();
+    var alternateText = $(this).prev().html();
+
+    console.log(text);
+    console.log(alternateText);
 
     $(this).fadeOut(function() {
-      $(this).text(alternateText).fadeIn();
+      $(this).html(alternateText).fadeIn();
     });
-    $(this).prev().text(text);
+    $(this).prev().html(text);
   });
 
   $('.alternate-text + pre code').on('click', function() {
@@ -241,13 +245,13 @@ $(document).ready(function(){
 
 
   $('.alternate-text').on('click', function() {
-    var text = $(this).text();
-    var alternateText = $(this).next().text();
+    var text = $(this).html();
+    var alternateText = $(this).next().html();
 
     $(this).fadeOut(function() {
-      $(this).text(alternateText).fadeIn();
+      $(this).html(alternateText).fadeIn();
     });
-    $(this).next().text(text);
+    $(this).next().html(text);
   });
 
 });

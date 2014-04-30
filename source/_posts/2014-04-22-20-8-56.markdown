@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "20-8-56"
+subtitle: "Χριστόδουλος προς Δέσποιναν"
 date: 2014-04-22 22:52:12 +0100
 comments: true
 categories: 

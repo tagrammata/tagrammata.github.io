@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "31-7-56"
+subtitle: "Μαρούλλα Παναγή προς Χριστόδουλον"
 date: 2014-04-22 21:29:04 +0100
 comments: true
 categories: 

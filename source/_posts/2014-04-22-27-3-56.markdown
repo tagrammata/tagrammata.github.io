@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "27-3-56"
+subtitle: "Χριστόδουλος προς Δέσποιναν"
 date: 2014-04-22 18:31:23 +0100
 comments: true
 categories:
@@ -32,6 +33,6 @@ categories:
  Χριστόδουλος
 
 {% gallery %}
-  {% galleryitem /images/1956/270356.jpg 'γράμμα πρώτη σελίδα' 'images' %}
-  {% galleryitem /images/1956/270356B.jpg 'γράμμα δεύτερη σελίδα' 'images' %}
+  {% galleryitem /images/1956/270356.jpg %}
+  {% galleryitem /images/1956/270356B.jpg %}
 {% endgallery %}

@@ -8,6 +8,9 @@ $(document).ready(function(){
                                           thumbnailWidth: '150',
                                           thumbnailDisplayTransition: false,
                                           colorScheme: 'lightBackground',
+                                          viewerToolbar: {
+                                            style: 'stuckImage'
+                                          },
                                           thumbnailLabel: false});
 
   $("#gallery-pictures .gallery-row").nanoGallery({galleryToolbarHideIcons: 'false',
@@ -41,5 +44,42 @@ $(document).ready(function(){
                                           },
                                           galleryToolbarHideIcons: true
                                         });
+
+  $('.alternate-text + p').on('click', function() {
+    var text = $(this).html();
+    var alternateText = $(this).prev().html();
+
+    console.log(text);
+    console.log(alternateText);
+
+    $(this).fadeOut(function() {
+      $(this).html(alternateText).fadeIn();
+    });
+    $(this).prev().html(text);
+  });
+
+  $('.alternate-text + pre code').on('click', function() {
+    var text = $(this).html();
+    var alternateText = $(this).parent().prev().children().first().html();
+
+    $(this).parent().prev().children().first().html(text);
+    var formatAlternateText = alternateText.replace(/<br>  /g,'<br>');
+
+    $(this).fadeOut(function() {
+      $(this).html(formatAlternateText).fadeIn();
+    });
+  });
+
+
+  $('.alternate-text').on('click', function() {
+    var text = $(this).html();
+    var alternateText = $(this).next().html();
+
+    $(this).fadeOut(function() {
+      $(this).html(alternateText).fadeIn();
+    });
+    $(this).next().html(text);
+  });
+
 });
 </script>

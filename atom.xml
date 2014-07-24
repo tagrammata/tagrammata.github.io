@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Τα γράμματα]]></title>
-  <link href="http://tagrammata.github.io/atom.xml" rel="self"/>
-  <link href="http://tagrammata.github.io/"/>
-  <updated>2014-07-24T02:00:40+01:00</updated>
-  <id>http://tagrammata.github.io/</id>
+  <link href="http://tagrammata.com/atom.xml" rel="self"/>
+  <link href="http://tagrammata.com/"/>
+  <updated>2014-07-24T08:57:19+01:00</updated>
+  <id>http://tagrammata.com/</id>
   <author>
     <name><![CDATA[Δέσπω & Γιώργος Πενταρά]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[27-5-58]]></title>
-    <link href="http://tagrammata.github.io/27-5-58/"/>
+    <link href="http://tagrammata.com/27-5-58/"/>
     <updated>2014-04-24T13:14:56+01:00</updated>
-    <id>http://tagrammata.github.io/27-5-58</id>
+    <id>http://tagrammata.com/27-5-58</id>
     <content type="html"><![CDATA[<p>Λιοπέτρην τη 27/05/58</p>
 
 <p>Αξιότιμε κύριε Πενταρά χαίρε,</p>
@@ -31,7 +31,7 @@
 Μαργαρίτα Χριστοφή</p>
 
 <div id=gallery> <div class="gallery-row"> 
- <a href='http://tagrammata.github.io/images/1958/270558.jpg' data-ngthumb="/images/1958/270558.jpg" >γράμμα πρώτη σελίδα</a>
+ <a href='http://tagrammata.com/images/1958/270558.jpg' data-ngthumb="/images/1958/270558.jpg" >γράμμα πρώτη σελίδα</a>
  </div> </div>
 
 ]]></content>
@@ -39,9 +39,9 @@
   
   <entry>
     <title type="html"><![CDATA[17-4-58]]></title>
-    <link href="http://tagrammata.github.io/17-4-58/"/>
+    <link href="http://tagrammata.com/17-4-58/"/>
     <updated>2014-04-24T12:19:36+01:00</updated>
-    <id>http://tagrammata.github.io/17-4-58</id>
+    <id>http://tagrammata.com/17-4-58</id>
     <content type="html"><![CDATA[<p>Λ/σία 17/4/58</p>
 
 <p>Αγαπητέ Χριστόδουλε,</p>
@@ -71,9 +71,9 @@
 Λευκωσία</p>
 
 <div id=gallery> <div class="gallery-row"> 
-  <a href='http://tagrammata.github.io/images/1958/170458A.jpg' data-ngthumb="/images/1958/170458A.jpg" >γράμμα πρώτη σελίδα</a>
-  <a href='http://tagrammata.github.io/images/1958/170458B.jpg' data-ngthumb="/images/1958/170458B.jpg" >γράμμα πρώτη σελίδα</a>
-  <a href='http://tagrammata.github.io/images/1958/170458C.jpg' data-ngthumb="/images/1958/170458C.jpg" >γράμμα πρώτη σελίδα</a>
+  <a href='http://tagrammata.com/images/1958/170458A.jpg' data-ngthumb="/images/1958/170458A.jpg" >γράμμα πρώτη σελίδα</a>
+  <a href='http://tagrammata.com/images/1958/170458B.jpg' data-ngthumb="/images/1958/170458B.jpg" >γράμμα πρώτη σελίδα</a>
+  <a href='http://tagrammata.com/images/1958/170458C.jpg' data-ngthumb="/images/1958/170458C.jpg" >γράμμα πρώτη σελίδα</a>
  </div> </div>
 
 ]]></content>
@@ -81,9 +81,9 @@
   
   <entry>
     <title type="html"><![CDATA[13-4-58]]></title>
-    <link href="http://tagrammata.github.io/13-4-58/"/>
+    <link href="http://tagrammata.com/13-4-58/"/>
     <updated>2014-04-24T12:19:31+01:00</updated>
-    <id>http://tagrammata.github.io/13-4-58</id>
+    <id>http://tagrammata.com/13-4-58</id>
     <content type="html"><![CDATA[<p>Λεμεσός 13.4.58</p>
 
 <p>Αγαπητέ μου Πενταρά,</p>
@@ -97,7 +97,7 @@
 <p>Με αγάπη Ευγένιος</p>
 
 <div id=gallery> <div class="gallery-row"> 
-  <a href='http://tagrammata.github.io/images/1958/130458.jpg' data-ngthumb="/images/1958/130458.jpg" >γράμμα πρώτη σελίδα</a>
+  <a href='http://tagrammata.com/images/1958/130458.jpg' data-ngthumb="/images/1958/130458.jpg" >γράμμα πρώτη σελίδα</a>
  </div> </div>
 
 ]]></content>
@@ -105,9 +105,9 @@
   
   <entry>
     <title type="html"><![CDATA[30-3-58]]></title>
-    <link href="http://tagrammata.github.io/30-3-58/"/>
+    <link href="http://tagrammata.com/30-3-58/"/>
     <updated>2014-04-24T12:19:23+01:00</updated>
-    <id>http://tagrammata.github.io/30-3-58</id>
+    <id>http://tagrammata.com/30-3-58</id>
     <content type="html"><![CDATA[<p>Χλώρακα τη 30/03/958</p>
 
 <p>Δέσποιναν Ταπακκούδη Χλώρακαν &ndash; Πάφου Αγαπητή μου γυναίκα,</p>
@@ -117,8 +117,8 @@
 <p>Με αγάπη Χριστόδουλος</p>
 
 <div id=gallery> <div class="gallery-row"> 
-  <a href='http://tagrammata.github.io/images/1958/300358.jpg' data-ngthumb="/images/1958/300358.jpg" >γράμμα πρώτη σελίδα</a>
-  <a href='http://tagrammata.github.io/images/1958/300358B.jpg' data-ngthumb="/images/1958/300358B.jpg" >γράμμα πρώτη σελίδα</a>
+  <a href='http://tagrammata.com/images/1958/300358.jpg' data-ngthumb="/images/1958/300358.jpg" >γράμμα πρώτη σελίδα</a>
+  <a href='http://tagrammata.com/images/1958/300358B.jpg' data-ngthumb="/images/1958/300358B.jpg" >γράμμα πρώτη σελίδα</a>
  </div> </div>
 
 ]]></content>
@@ -126,9 +126,9 @@
   
   <entry>
     <title type="html"><![CDATA[10-3-58]]></title>
-    <link href="http://tagrammata.github.io/10-3-58/"/>
+    <link href="http://tagrammata.com/10-3-58/"/>
     <updated>2014-04-24T12:19:17+01:00</updated>
-    <id>http://tagrammata.github.io/10-3-58</id>
+    <id>http://tagrammata.com/10-3-58</id>
     <content type="html"><![CDATA[<p>Χριστόδουλον Ν Πενταράν Κεντρικές φυλακές Λευκοσίας</p>
 
 <p>Πολυαγαπημένε μου Ατρούλυ,</p>
@@ -138,7 +138,7 @@
 <p>Με αγάπην ειγινέκασου και ο γιός σου Νίκος + + + + +</p>
 
 <div id=gallery> <div class="gallery-row"> 
-  <a href='http://tagrammata.github.io/images/1958/100358.jpg' data-ngthumb="/images/1958/100358.jpg" >γράμμα πρώτη σελίδα</a>
+  <a href='http://tagrammata.com/images/1958/100358.jpg' data-ngthumb="/images/1958/100358.jpg" >γράμμα πρώτη σελίδα</a>
  </div> </div>
 
 ]]></content>
@@ -146,9 +146,9 @@
   
   <entry>
     <title type="html"><![CDATA[2-3-58]]></title>
-    <link href="http://tagrammata.github.io/2-3-58/"/>
+    <link href="http://tagrammata.com/2-3-58/"/>
     <updated>2014-04-24T12:19:11+01:00</updated>
-    <id>http://tagrammata.github.io/2-3-58</id>
+    <id>http://tagrammata.com/2-3-58</id>
     <content type="html"><![CDATA[<p>Δέσποιναν Ταπακκούδη<br/>
 Χλώρακαν &ndash; Πάφου</p>
 
@@ -160,8 +160,8 @@
 <p>Με αγάπην Χριστόδουλος</p>
 
 <div id=gallery> <div class="gallery-row"> 
-  <a href='http://tagrammata.github.io/images/1958/020358.jpg' data-ngthumb="/images/1958/020358.jpg" >γράμμα πρώτη σελίδα</a>
-  <a href='http://tagrammata.github.io/images/1958/020358B.jpg' data-ngthumb="/images/1958/020358B.jpg" >γράμμα πρώτη σελίδα</a>
+  <a href='http://tagrammata.com/images/1958/020358.jpg' data-ngthumb="/images/1958/020358.jpg" >γράμμα πρώτη σελίδα</a>
+  <a href='http://tagrammata.com/images/1958/020358B.jpg' data-ngthumb="/images/1958/020358B.jpg" >γράμμα πρώτη σελίδα</a>
  </div> </div>
 
 ]]></content>
@@ -169,9 +169,9 @@
   
   <entry>
     <title type="html"><![CDATA[23-2-58]]></title>
-    <link href="http://tagrammata.github.io/23-2-58/"/>
+    <link href="http://tagrammata.com/23-2-58/"/>
     <updated>2014-04-24T04:00:44+01:00</updated>
-    <id>http://tagrammata.github.io/23-2-58</id>
+    <id>http://tagrammata.com/23-2-58</id>
     <content type="html"><![CDATA[<p>Χριστόδουλος Ν. Πενταράς<br/>
 Κεντρικές φυλακές Λευκοσίας 8363 Τη 23.2.58</p>
 
@@ -185,7 +185,7 @@
 <p>Με αγάπην Δέσπεινα + + + +</p>
 
 <div id=gallery> <div class="gallery-row"> 
-  <a href='http://tagrammata.github.io/images/1958/230258.jpg' data-ngthumb="/images/1958/230258.jpg" >γράμμα πρώτη σελίδα</a>
+  <a href='http://tagrammata.com/images/1958/230258.jpg' data-ngthumb="/images/1958/230258.jpg" >γράμμα πρώτη σελίδα</a>
  </div> </div>
 
 ]]></content>
@@ -193,9 +193,9 @@
   
   <entry>
     <title type="html"><![CDATA[18-2-58]]></title>
-    <link href="http://tagrammata.github.io/18-2-58/"/>
+    <link href="http://tagrammata.com/18-2-58/"/>
     <updated>2014-04-24T04:00:39+01:00</updated>
-    <id>http://tagrammata.github.io/18-2-58</id>
+    <id>http://tagrammata.com/18-2-58</id>
     <content type="html"><![CDATA[<p>Τη 18-2-958<br/>
 Δέσποιναν Ταπακκούδη Χλώρακαν &ndash; Πάφος</p>
 
@@ -209,9 +209,9 @@
   
   <entry>
     <title type="html"><![CDATA[10-2-58]]></title>
-    <link href="http://tagrammata.github.io/10-2-58/"/>
+    <link href="http://tagrammata.com/10-2-58/"/>
     <updated>2014-04-24T04:00:34+01:00</updated>
-    <id>http://tagrammata.github.io/10-2-58</id>
+    <id>http://tagrammata.com/10-2-58</id>
     <content type="html"><![CDATA[<p>Εν Χλώρακα Κον Χριστόδουλον Ν. Πενταράν 10.2.58</p>
 
 <p>Αγαπητέ θείε Χριστόδουλε, μάθε ότι είμεθα όλοι εντελώς καλά δόξα τω Άγιω θεώ. Δια πρώτην φοράν πέρνω πεννα και χαρτί να σας στείλω έστω και ένα γράμμα για να αισθανθήτε λίγη χαρά, εκεί όπου βρήσκεσαι στις φυλακές τα σίδερα. Μετά μεγάλη μας λύπη παρηκολουθήσαμεν απο τις εφημερίδες τα τελευταία γεγονότα, που συνέβησαν μέσα στις φυλακές. Μέχρι σήμμερα δέν μάθαμε εάν πράγματι τιμωρηθήκατε ή όχι, εάν νέ χρειάζεται υπομονή. Ενοώ δια την προοδευτικήν. Σας περιμένωμεν με μεγάλην ανυπομονησίαν ναρθήτε στ ́αγαπημένο μας χωριό, και στο οικογενειακό σας σπίτι που χρόνια τώρα σας περιμένουν. Πήρα το γράμμα σου υπο ημερ. 02/02/ 58 το διάβασα προσεκτικά και εχάρηκα όταν είδα να με συμβουλεύης, να συνεχίσω να ασχολούμε με Χριστιανηκά καθήκοντα. Δεν είμε κανένας Θεολόγος ή ιεροκύρηξ έχω όμως χρέος ώς χριστιανός, και ώς μέλος της επιτροπείας του Θ.Ι.Α του χωριού μου, να σκορπίσω και να διαφωτίσω τον δρόμον που πρέπει να ακολουθήση κάθε χριστιανός.
@@ -223,8 +223,8 @@
 <p>Με αγάπην ο αδελφότεχνος σου Κώστας</p>
 
 <div id=gallery> <div class="gallery-row"> 
-  <a href='http://tagrammata.github.io/images/1958/100258.jpg' data-ngthumb="/images/1958/100258.jpg" >γράμμα πρώτη σελίδα</a>
-  <a href='http://tagrammata.github.io/images/1958/100258B.jpg' data-ngthumb="/images/1958/100258B.jpg" >γράμμα πρώτη σελίδα</a>
+  <a href='http://tagrammata.com/images/1958/100258.jpg' data-ngthumb="/images/1958/100258.jpg" >γράμμα πρώτη σελίδα</a>
+  <a href='http://tagrammata.com/images/1958/100258B.jpg' data-ngthumb="/images/1958/100258B.jpg" >γράμμα πρώτη σελίδα</a>
  </div> </div>
 
 ]]></content>
@@ -232,9 +232,9 @@
   
   <entry>
     <title type="html"><![CDATA[6-2-58]]></title>
-    <link href="http://tagrammata.github.io/6-2-58/"/>
+    <link href="http://tagrammata.com/6-2-58/"/>
     <updated>2014-04-24T04:00:29+01:00</updated>
-    <id>http://tagrammata.github.io/6-2-58</id>
+    <id>http://tagrammata.com/6-2-58</id>
     <content type="html"><![CDATA[<p>Χλώρακα 6-2-58</p>
 
 <p>Προς τον Χριστόδουλον Ν Πενταρά</p>
@@ -245,7 +245,7 @@
 Σωτήρης Στυλιανού</p>
 
 <div id=gallery> <div class="gallery-row"> 
-  <a href='http://tagrammata.github.io/images/1958/060258.jpg' data-ngthumb="/images/1958/060258.jpg" >γράμμα πρώτη σελίδα</a>
+  <a href='http://tagrammata.com/images/1958/060258.jpg' data-ngthumb="/images/1958/060258.jpg" >γράμμα πρώτη σελίδα</a>
  </div> </div>
 
 ]]></content>
@@ -253,9 +253,9 @@
   
   <entry>
     <title type="html"><![CDATA[2-2-58]]></title>
-    <link href="http://tagrammata.github.io/2-2-58/"/>
+    <link href="http://tagrammata.com/2-2-58/"/>
     <updated>2014-04-24T04:00:23+01:00</updated>
-    <id>http://tagrammata.github.io/2-2-58</id>
+    <id>http://tagrammata.com/2-2-58</id>
     <content type="html"><![CDATA[<p>Δέσποιναν Ταπακκούδη<br/>
 Χλώρακαν &ndash; Πάφου<br/>
 Τη 2-2-958</p>
@@ -269,9 +269,9 @@
 <p>Με αγάπην Χριστόδουλος</p>
 
 <div id=gallery> <div class="gallery-row"> 
-  <a href='http://tagrammata.github.io/images/1958/020258.jpg' data-ngthumb="/images/1958/020258.jpg" >γράμμα πρώτη σελίδα</a>
-  <a href='http://tagrammata.github.io/images/1958/020258B.jpg' data-ngthumb="/images/1958/020258B.jpg" >γράμμα πρώτη σελίδα</a>
-  <a href='http://tagrammata.github.io/images/1958/020258C.jpg' data-ngthumb="/images/1958/020258C.jpg" >γράμμα πρώτη σελίδα</a>
+  <a href='http://tagrammata.com/images/1958/020258.jpg' data-ngthumb="/images/1958/020258.jpg" >γράμμα πρώτη σελίδα</a>
+  <a href='http://tagrammata.com/images/1958/020258B.jpg' data-ngthumb="/images/1958/020258B.jpg" >γράμμα πρώτη σελίδα</a>
+  <a href='http://tagrammata.com/images/1958/020258C.jpg' data-ngthumb="/images/1958/020258C.jpg" >γράμμα πρώτη σελίδα</a>
  </div> </div>
 
 ]]></content>
@@ -279,9 +279,9 @@
   
   <entry>
     <title type="html"><![CDATA[22-1-58]]></title>
-    <link href="http://tagrammata.github.io/22-1-58/"/>
+    <link href="http://tagrammata.com/22-1-58/"/>
     <updated>2014-04-24T04:00:17+01:00</updated>
-    <id>http://tagrammata.github.io/22-1-58</id>
+    <id>http://tagrammata.com/22-1-58</id>
     <content type="html"><![CDATA[<p>Δέσποιναν Ταπακκούδη<br/>
 Χλώρακαν &ndash; Πάφος</p>
 
@@ -294,8 +294,8 @@
 <p>Με πολλήν αγάπην, Χριστόδουλος</p>
 
 <div id=gallery> <div class="gallery-row"> 
-  <a href='http://tagrammata.github.io/images/1958/220158.jpg' data-ngthumb="/images/1958/220158.jpg" >γράμμα πρώτη σελίδα</a>
-  <a href='http://tagrammata.github.io/images/1958/220158B.jpg' data-ngthumb="/images/1958/220158B.jpg" >γράμμα πρώτη σελίδα</a>
+  <a href='http://tagrammata.com/images/1958/220158.jpg' data-ngthumb="/images/1958/220158.jpg" >γράμμα πρώτη σελίδα</a>
+  <a href='http://tagrammata.com/images/1958/220158B.jpg' data-ngthumb="/images/1958/220158B.jpg" >γράμμα πρώτη σελίδα</a>
  </div> </div>
 
 ]]></content>
@@ -303,9 +303,9 @@
   
   <entry>
     <title type="html"><![CDATA[17-1-58]]></title>
-    <link href="http://tagrammata.github.io/17-1-58/"/>
+    <link href="http://tagrammata.com/17-1-58/"/>
     <updated>2014-04-24T04:00:10+01:00</updated>
-    <id>http://tagrammata.github.io/17-1-58</id>
+    <id>http://tagrammata.com/17-1-58</id>
     <content type="html"><![CDATA[<p>Χριστόδουλον Πενταράν 8363</p>
 
 <p>Πολυαγαπημένε μου ατρούλη,</p>
@@ -326,7 +326,7 @@
 </code></pre>
 
 <div id=gallery> <div class="gallery-row"> 
-  <a href='http://tagrammata.github.io/images/1958/170158.jpg' data-ngthumb="/images/1958/170158.jpg" >γράμμα πρώτη σελίδα</a>
+  <a href='http://tagrammata.com/images/1958/170158.jpg' data-ngthumb="/images/1958/170158.jpg" >γράμμα πρώτη σελίδα</a>
  </div> </div>
 
 ]]></content>
@@ -334,9 +334,9 @@
   
   <entry>
     <title type="html"><![CDATA[2-1-58]]></title>
-    <link href="http://tagrammata.github.io/2-1-58/"/>
+    <link href="http://tagrammata.com/2-1-58/"/>
     <updated>2014-04-24T03:59:42+01:00</updated>
-    <id>http://tagrammata.github.io/2-1-58</id>
+    <id>http://tagrammata.com/2-1-58</id>
     <content type="html"><![CDATA[<p>Χριστόδουλον Ν Πενταραν<br/>
 Κεντρικές φυλακές Λευκοσίας 8363<br/></p>
 
@@ -349,8 +349,8 @@
 <p>Με αγάπην εικιρία σου</p>
 
 <div id=gallery> <div class="gallery-row"> 
-  <a href='http://tagrammata.github.io/images/1958/020158.jpg' data-ngthumb="/images/1958/020158.jpg" >γράμμα πρώτη σελίδα</a>
-  <a href='http://tagrammata.github.io/images/1958/020158B.jpg' data-ngthumb="/images/1958/020158B.jpg" >γράμμα πρώτη σελίδα</a>
+  <a href='http://tagrammata.com/images/1958/020158.jpg' data-ngthumb="/images/1958/020158.jpg" >γράμμα πρώτη σελίδα</a>
+  <a href='http://tagrammata.com/images/1958/020158B.jpg' data-ngthumb="/images/1958/020158B.jpg" >γράμμα πρώτη σελίδα</a>
  </div> </div>
 
 ]]></content>
@@ -358,9 +358,9 @@
   
   <entry>
     <title type="html"><![CDATA[19-12-57]]></title>
-    <link href="http://tagrammata.github.io/19-12-57/"/>
+    <link href="http://tagrammata.com/19-12-57/"/>
     <updated>2014-04-24T03:05:33+01:00</updated>
-    <id>http://tagrammata.github.io/19-12-57</id>
+    <id>http://tagrammata.com/19-12-57</id>
     <content type="html"><![CDATA[<p>Δέσποιναν Ταπακκούδη<br/>
 Χλώρακαν &ndash; Πάφος</p>
 
@@ -374,8 +374,8 @@
 <p>Με αγάπην Χριστόδουλος.</p>
 
 <div id=gallery> <div class="gallery-row"> 
-  <a href='http://tagrammata.github.io/images/1957/191257.jpg' data-ngthumb="/images/1957/191257.jpg" >γράμμα πρώτη σελίδα</a>
-  <a href='http://tagrammata.github.io/images/1957/191257B.jpg' data-ngthumb="/images/1957/191257B.jpg" >γράμμα πρώτη σελίδα</a>
+  <a href='http://tagrammata.com/images/1957/191257.jpg' data-ngthumb="/images/1957/191257.jpg" >γράμμα πρώτη σελίδα</a>
+  <a href='http://tagrammata.com/images/1957/191257B.jpg' data-ngthumb="/images/1957/191257B.jpg" >γράμμα πρώτη σελίδα</a>
  </div> </div>
 
 ]]></content>
@@ -383,9 +383,9 @@
   
   <entry>
     <title type="html"><![CDATA[18-12-57]]></title>
-    <link href="http://tagrammata.github.io/18-12-57/"/>
+    <link href="http://tagrammata.com/18-12-57/"/>
     <updated>2014-04-24T03:05:27+01:00</updated>
-    <id>http://tagrammata.github.io/18-12-57</id>
+    <id>http://tagrammata.com/18-12-57</id>
     <content type="html"><![CDATA[<p>Εν Γερμασόγεια 18/12/57</p>
 
 <p>Πολυαγαπημένη μου φίλη Δέσποινα,</p>
@@ -395,7 +395,7 @@
 <p>Σε φιλώ Γιαννούλα</p>
 
 <div id=gallery> <div class="gallery-row"> 
-  <a href='http://tagrammata.github.io/images/1957/181257.jpg' data-ngthumb="/images/1957/181257.jpg" >γράμμα πρώτη σελίδα</a>
+  <a href='http://tagrammata.com/images/1957/181257.jpg' data-ngthumb="/images/1957/181257.jpg" >γράμμα πρώτη σελίδα</a>
  </div> </div>
 
 ]]></content>
@@ -403,9 +403,9 @@
   
   <entry>
     <title type="html"><![CDATA[3-12-57]]></title>
-    <link href="http://tagrammata.github.io/3-12-57/"/>
+    <link href="http://tagrammata.com/3-12-57/"/>
     <updated>2014-04-24T03:05:22+01:00</updated>
-    <id>http://tagrammata.github.io/3-12-57</id>
+    <id>http://tagrammata.com/3-12-57</id>
     <content type="html"><![CDATA[<p>Χλόρακαν Πάφος 3.12.57<br/>
 Κεντρικές φυλακές Λευκοσίας 8363</p>
 
@@ -416,8 +416,8 @@
 <p>Με αγάπην εικιρία σου Δέσπεινα</p>
 
 <div id=gallery> <div class="gallery-row"> 
-  <a href='http://tagrammata.github.io/images/1957/031257.jpg' data-ngthumb="/images/1957/031257.jpg" >γράμμα πρώτη σελίδα</a>
-  <a href='http://tagrammata.github.io/images/1957/031257B.jpg' data-ngthumb="/images/1957/031257B.jpg" >γράμμα πρώτη σελίδα</a>
+  <a href='http://tagrammata.com/images/1957/031257.jpg' data-ngthumb="/images/1957/031257.jpg" >γράμμα πρώτη σελίδα</a>
+  <a href='http://tagrammata.com/images/1957/031257B.jpg' data-ngthumb="/images/1957/031257B.jpg" >γράμμα πρώτη σελίδα</a>
  </div> </div>
 
 ]]></content>
@@ -425,9 +425,9 @@
   
   <entry>
     <title type="html"><![CDATA[19-11-57]]></title>
-    <link href="http://tagrammata.github.io/19-11-57/"/>
+    <link href="http://tagrammata.com/19-11-57/"/>
     <updated>2014-04-24T03:05:12+01:00</updated>
-    <id>http://tagrammata.github.io/19-11-57</id>
+    <id>http://tagrammata.com/19-11-57</id>
     <content type="html"><![CDATA[<p>Δέσποιναν Ταπακκούδη Χλώρακαν Πάφου
 Τη 19-11-957</p>
 
@@ -441,8 +441,8 @@
 <p>Με αγάπην Χριστόδουλος</p>
 
 <div id=gallery> <div class="gallery-row"> 
-  <a href='http://tagrammata.github.io/images/1957/191157.jpg' data-ngthumb="/images/1957/191157.jpg" >γράμμα πρώτη σελίδα</a>
-  <a href='http://tagrammata.github.io/images/1957/191157B.jpg' data-ngthumb="/images/1957/191157B.jpg" >γράμμα πρώτη σελίδα</a>
+  <a href='http://tagrammata.com/images/1957/191157.jpg' data-ngthumb="/images/1957/191157.jpg" >γράμμα πρώτη σελίδα</a>
+  <a href='http://tagrammata.com/images/1957/191157B.jpg' data-ngthumb="/images/1957/191157B.jpg" >γράμμα πρώτη σελίδα</a>
  </div> </div>
 
 ]]></content>
@@ -450,9 +450,9 @@
   
   <entry>
     <title type="html"><![CDATA[5-11-57(2)]]></title>
-    <link href="http://tagrammata.github.io/5-11-57-2/"/>
+    <link href="http://tagrammata.com/5-11-57-2/"/>
     <updated>2014-04-24T03:05:06+01:00</updated>
-    <id>http://tagrammata.github.io/5-11-57-2</id>
+    <id>http://tagrammata.com/5-11-57-2</id>
     <content type="html"><![CDATA[<p>Λονδίνο 05/11/57</p>
 
 <p>Αγαπητή αδελφή Δέσποινα,</p>
@@ -468,8 +468,8 @@
 Βάσος</p>
 
 <div id=gallery> <div class="gallery-row"> 
-  <a href='http://tagrammata.github.io/images/1957/051157C.jpg' data-ngthumb="/images/1957/051157C.jpg" >γράμμα πρώτη σελίδα</a>
-  <a href='http://tagrammata.github.io/images/1957/051157D.jpg' data-ngthumb="/images/1957/051157D.jpg" >γράμμα πρώτη σελίδα</a>
+  <a href='http://tagrammata.com/images/1957/051157C.jpg' data-ngthumb="/images/1957/051157C.jpg" >γράμμα πρώτη σελίδα</a>
+  <a href='http://tagrammata.com/images/1957/051157D.jpg' data-ngthumb="/images/1957/051157D.jpg" >γράμμα πρώτη σελίδα</a>
  </div> </div>
 
 ]]></content>
@@ -477,9 +477,9 @@
   
   <entry>
     <title type="html"><![CDATA[5-11-57]]></title>
-    <link href="http://tagrammata.github.io/5-11-57/"/>
+    <link href="http://tagrammata.com/5-11-57/"/>
     <updated>2014-04-24T03:04:57+01:00</updated>
-    <id>http://tagrammata.github.io/5-11-57</id>
+    <id>http://tagrammata.com/5-11-57</id>
     <content type="html"><![CDATA[<p>Χλώρακαν 5.11.957</p>
 
 <p> Αγαπητέ αδελφέ Χριστόδουλε,</p>
@@ -489,8 +489,8 @@
 <p>Με αγάπην ο αδελφός σου Χαράλαμπος.</p>
 
 <div id=gallery> <div class="gallery-row"> 
-  <a href='http://tagrammata.github.io/images/1957/051157.jpg' data-ngthumb="/images/1957/051157.jpg" >γράμμα πρώτη σελίδα</a>
-  <a href='http://tagrammata.github.io/images/1957/051157B.jpg' data-ngthumb="/images/1957/051157B.jpg" >γράμμα πρώτη σελίδα</a>
+  <a href='http://tagrammata.com/images/1957/051157.jpg' data-ngthumb="/images/1957/051157.jpg" >γράμμα πρώτη σελίδα</a>
+  <a href='http://tagrammata.com/images/1957/051157B.jpg' data-ngthumb="/images/1957/051157B.jpg" >γράμμα πρώτη σελίδα</a>
  </div> </div>
 
 ]]></content>

@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: http://tagrammata.github.io/sitemap.xml
+Sitemap: http://tagrammata.com/sitemap.xml
